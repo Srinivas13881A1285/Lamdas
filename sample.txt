@@ -1,2 +1,3 @@
 Hello Git
-Added by Srinivas
+-------Added by Srinivas
+----------Git contributor.
